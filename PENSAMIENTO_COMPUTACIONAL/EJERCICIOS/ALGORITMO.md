@@ -1,6 +1,8 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-
+Algoritmo para preparar una jarra de agua de limon.
+*1 Inicio
+*2 
 
 
 
