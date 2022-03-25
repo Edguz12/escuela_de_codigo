@@ -38,13 +38,26 @@ si no mostrar ("numero2 es mayor a numero1")
 
 *10 asignar calificacion4
 
-*4 si calificacion1+calificacion2+calificacion3+calificacion4/4 >= 6 mostrar mensaje "felicitaciones, aprobaste"
+*11 promedio es igual a calificacion1+calificacion2+calificacion3+calificacion4/4
+
+*12 si promedio >= 6 mostrar mensaje "felicitaciones, aprobaste"
 si < 6 "lo sentimos, reprobaste"
 
-*5 fin
+*13 fin
+
+![image](https://user-images.githubusercontent.com/101203615/160077522-c3119816-fd78-4f42-b1d7-e0e9c86e4ca2.png)
+
 
 5. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
 *1 inicio
 
-*2 declarar (numero1 
+*2 declarar numero
+
+*3 mostrar "ingresa un número"
+
+*4 asignar numero
+
+*5 si numero % 2 == 0 mostrar "El número " + numero + " es par") si no mostrar "El número " + numero + " es impar" 
+
+*6 fin
