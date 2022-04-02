@@ -61,3 +61,5 @@ si < 6 "lo sentimos, reprobaste"
 *5 si numero % 2 == 0 mostrar "El número " + numero + " es par") si no mostrar "El número " + numero + " es impar" 
 
 *6 fin
+
+![image](https://user-images.githubusercontent.com/101203615/161404674-b51be77b-2030-40d3-8c8f-706727cfdc40.png)
