@@ -10,6 +10,7 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
 
 *5 fin
 
+![image](https://user-images.githubusercontent.com/101203615/161423364-20c6a072-e627-44ed-be87-7e4a6c9b2649.png)
 
 
 Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
@@ -24,4 +25,9 @@ Realiza un algoritmo y diagrama de flujo de un programa que solicita números al
 
 *6 asignar numero2
 
-*7 mientras numero1, numero2 sean positivo resultado1=numero1+numero2
+*7 mientras numero1, numero2 sean positivo resultado1=numero1+numero2 si no mostrar resultado
+
+*8 fin
+
+![image](https://user-images.githubusercontent.com/101203615/161423599-dda87ab1-7c81-4cca-b1ec-b14f1592365d.png)
+
