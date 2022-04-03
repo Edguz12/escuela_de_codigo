@@ -73,6 +73,9 @@ si no mostrara "caracter invalido"
 
 *10 fin
 
+![image](https://user-images.githubusercontent.com/101203615/161423789-a1a36529-f901-470a-bdbb-e750dd0a8ea8.png)
+
+
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 
 *1 inicio
@@ -87,6 +90,9 @@ si no mostrara "caracter invalido"
 
 *6 fin
 
+![image](https://user-images.githubusercontent.com/101203615/161423835-3e3b456c-30ce-4c27-aa4c-ab825cd84e2a.png)
+
+
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 
 *1 inicio
@@ -100,6 +106,9 @@ si no mostrara "caracter invalido"
 *5 SI(voto == "A")  mostar("usted voto por el partido ROJO") sino si(voto == "B") mostrar("usted voto por el partido VERDE") sino si(voto == "C") mostar("usted voto por el partido AZUL") sino mostar("voto invalido")
 
 *6 fin
+
+![image](https://user-images.githubusercontent.com/101203615/161423866-cb1bda61-e326-43dc-9fce-15eec186c556.png)
+
 
 Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
 
@@ -122,3 +131,6 @@ Para un programa que almacene la cadena de caracteres para una contraseña y ema
 *9 si(email == email_validar && contra == contra_validar) mostrar("email y contraseña correcta") sino mostar("email o contraseña incorrecta") 
 
 *10 fin
+
+![image](https://user-images.githubusercontent.com/101203615/161423878-5dfe307d-93de-4095-a125-1ad69e2e68a2.png)
+
