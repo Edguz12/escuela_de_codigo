@@ -31,6 +31,11 @@ Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de 
 
 *3 asignar (contador1, contador2)
 
-*4 PARA(contador1<=10) mostrar contador1*contador2=resultado
+*4 PARA(contador1<=10) contador1+1 PARA contador2<=10 contador2+1
+
+mostrar resultado=contador1*contador2
+
+![image](https://user-images.githubusercontent.com/101203615/161422384-95e2324f-41bc-4a03-97b1-944dd87ba448.png)
+
 
 
